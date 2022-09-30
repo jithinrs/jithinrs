@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jithin R S
 - 👀 I’m interested in Computer coding/programming
-- 🌱 I’m currently learning Web development
+- 🌱 I’m currently learning Web development using Python Django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
